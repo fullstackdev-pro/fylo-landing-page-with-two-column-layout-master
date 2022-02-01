@@ -1,0 +1,135 @@
+.header {
+    padding-top: 4rem;
+}
+
+.illustration1 {
+    padding-top: 4rem;
+}
+
+.illustration1__title {
+    padding-top: 3rem;
+    font-size: 2.2rem;
+    font-weight: 600;
+}
+
+
+.illustration1__subtitle {
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.get__started {
+    width: 100%;
+}
+
+.illustration1__image > img{
+    width: 100%;
+}
+
+.illustration2 {
+    padding-top: 10rem;
+}
+
+.illustration2__body {
+    background-color: hsl(240, 75%, 98%);
+    padding: 5rem 0;    
+}
+
+.illustration2__subtitle1 {
+    padding-top: 1.5rem;
+}
+
+.illustration2__link:hover > a{
+    color: hsl(170, 45%, 43%);
+}
+
+.client__cards {
+    padding-top: 5rem;
+}
+
+.client__card {
+    background-color: white;
+}
+
+.client__card > div {
+    padding:0 2rem;
+    padding: 0.4rem;
+}
+
+.icon-quotes > img{
+    width: 12%;
+    padding-top: 2rem;
+}
+
+.client__info {
+    margin-bottom: 2rem;
+}
+
+.client__image > img{
+    border-radius: 50%;
+    width: 80%;
+}
+
+.illustration2__image > img{
+    width: 100%;
+}
+
+.section3 {
+    padding-top: 5rem;
+    background-color: hsl(238, 22%, 44%);
+    position: relative;
+    bottom: 1rem;
+    right: 0.7rem;
+    padding-bottom: 4rem;
+}
+
+.section3 > div {
+    padding:0 3rem 0 3rem;
+}
+
+.section3__title {
+    color: hsl(240, 75%, 98%);
+}
+
+.section3__subtitle {
+    padding-top: 1rem;
+    color: hsl(240, 75%, 98%);
+}
+
+.section3__email {
+    padding-top: 1rem;
+}
+
+.section3__button {
+    padding-top: 2rem;
+}
+
+.footer {
+    padding-top: 6rem;
+    background-color: hsl(243, 87%, 12%);
+    padding-bottom: 4rem;
+    position: relative;
+    bottom: 1rem;
+    right: 0.7rem;
+}
+
+.footer > div {
+    color: hsl(240, 75%, 98%);
+}
+
+.footer__email {
+    padding-top: 1rem;
+}
+
+.social__networks > a{
+    padding: 0.5rem;
+    text-decoration: none;
+}
+
+.attribution {
+    font-size: 1.2rem;
+    text-align: center; 
+}
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
